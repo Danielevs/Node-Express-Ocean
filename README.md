@@ -4,9 +4,9 @@ Repositório criado para realização das atividades do curso de Node Express of
 ## 🚀 Funcionalidades
 
 - **Funcionalidade 1**: Visualizar lista de herois.
-- **Funcionalidade 1**: Adicionar herói da lista.
-- **Funcionalidade 1**: Atualizar herói da lista.
-- **Funcionalidade 1**: Excluir herói da lista.
+- **Funcionalidade 2**: Adicionar herói da lista.
+- **Funcionalidade 3**: Atualizar herói da lista.
+- **Funcionalidade 4**: Excluir herói da lista.
 
 - ## 📦 Pré-requisitos
 Para testá-lo você precisa ter: 
